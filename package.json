@@ -1,0 +1,8 @@
+{
+  "name": "munich-immo-dashboard",
+  "private": true,
+  "description": "Munich Property Hunter dashboard and listing evaluation",
+  "scripts": {
+    "test": "node --test test/*.test.js"
+  }
+}
